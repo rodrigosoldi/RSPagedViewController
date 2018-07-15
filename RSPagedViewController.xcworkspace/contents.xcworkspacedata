@@ -5,9 +5,6 @@
       location = "group:RSPagedViewController.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:RSPagedViewControllerExample/RSPagedViewControllerExample.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
