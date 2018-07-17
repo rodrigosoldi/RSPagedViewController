@@ -11,7 +11,6 @@
 		FE106B6420F7CB57003765B4 /* RSPagedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = FE106B6220F7CB57003765B4 /* RSPagedViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FE106B6B20F7CBE4003765B4 /* RSPagedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE106B6A20F7CBE4003765B4 /* RSPagedViewController.swift */; };
 		FE106B9420F7CF58003765B4 /* RSPagedCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE106B9320F7CF58003765B4 /* RSPagedCollectionViewCell.swift */; };
-		FE8835E720F9275200DC4E74 /* RSPagedLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8835E620F9275200DC4E74 /* RSPagedLineView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		FE106B6320F7CB57003765B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE106B6A20F7CBE4003765B4 /* RSPagedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSPagedViewController.swift; sourceTree = "<group>"; };
 		FE106B9320F7CF58003765B4 /* RSPagedCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSPagedCollectionViewCell.swift; sourceTree = "<group>"; };
-		FE8835E620F9275200DC4E74 /* RSPagedLineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSPagedLineView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +78,6 @@
 				FE106B9320F7CF58003765B4 /* RSPagedCollectionViewCell.swift */,
 				FE106B6220F7CB57003765B4 /* RSPagedViewController.h */,
 				FE106B6320F7CB57003765B4 /* Info.plist */,
-				FE8835E620F9275200DC4E74 /* RSPagedLineView.swift */,
 			);
 			path = RSPagedViewController;
 			sourceTree = "<group>";
@@ -204,7 +201,6 @@
 			files = (
 				FE106B6B20F7CBE4003765B4 /* RSPagedViewController.swift in Sources */,
 				FE106B9420F7CF58003765B4 /* RSPagedCollectionViewCell.swift in Sources */,
-				FE8835E720F9275200DC4E74 /* RSPagedLineView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
